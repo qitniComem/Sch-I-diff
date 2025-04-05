@@ -125,8 +125,38 @@ File Permission Issue=Проблема с Доступом к Файлам
 Schedule I was unable to verify file write access; this might result in errors when saving. This is usually due to Windows blocking file writing permissions.\n\n\nIf saving still seems to be working fine, you can ignore this.=Schedule не удалось подтвердить доступ на запись файлов — это может вызвать ошибки при сохранении. Обычно это связано с тем, что Windows блокирует права на запись.\n\n\nЕсли сохранение работает нормально, можете проигнорировать это сообщение.
 View fix instructions=Посмотреть инструкции по исправлению
 
+##Демо приколы##
+
+Available in \nfull game=Доступно в\nполной игре
+Gas Station=АЗС
+Male 1=Мужчина 1
+Female 1=Женщина 1
+Male 2=Мужчина 2
+Female 2=Женщина 2
+Male 3=Мужчина 3
+Female 3=Женщина 3
+Home=Дом
+Hovered=Наведено
+Male 4=Мужчина 4
+Female 4=Женщина 4
+Daily Deposit Limit=Ежедн. Лимит Депозита
+Schedule I will be releasing on <color\=#5DD642>March 24th.</color> \n\nIf you've enjoyed this demo, please consider wishlisting the <color\=#000000>                                      <size\=0>.</size>\n\n<color\=#5DD642>Full Game Features</color>\n=Релиз запланирован на <color\=#5DD642>24 марта.</color> \n\nЕсли вам понравилось демо, добавьте <color\=#000000>                                      <size=0>.</size>\n\n<color\=#5DD642>Особенности полной версии</color>\n
+Shorts=Шорты
+Accessories=Аксессуары
+Hey buddy, looks like you're in a bit of trouble. Lucky for you, your favourite incarcerated Uncle can give you a hand.=Эй, дружище, похоже, ты вляпался. Повезло тебе — твой любимый зэк-дядя всегда готов выручить.
+Back before I was in the big house, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=До того как я загремел за решётку, я жил в Хайленд-Пойнте. Городок не самый уютный, но для нарк... ну, для кого-то вроде тебя — возможностей хватает.
+There's probably some of my cash stashed not far from you. It isn't much, but it should be enough to get you going. You can find it <color\=#4CB0FF>near the skatepark</b>.=Где-то рядом с тобой, скорее всего, припрятаны мои деньги. Не густо, но должно хватить, чтобы ты встал на ноги. Ищи <color\=#4CB0FF>возле скейтпарка</b>.
+Collect Uncle Nelson's stash near the skatepark=Соберите тайник Дяди Нельсона возле скейтпарка
+There's a <color\=#88CBFF>compass</color> at the top of your screen. It'll show the waypoint to any tracked quests.=Сверху на экране есть <color\=#88CBFF>компас</color>. Он показывает направление к активным целям заданий.
+You got the room? Good. Now head down to the <color\=#4CB0FF>hardware store</color> and grab a <color\=#4CB0FF>grow tent, soil</color>, and <color\=#4CB0FF>watering can.</color>=Комнату взял? Отлично. Тогда отправляйся в <color\=#4CB0FF>хоз магаз</color> и прихвати <color\=#4CB0FF>тент для выращивания, почву</color> и <color\=#4CB0FF>лейку.</color>
+Deposit some cash at an ATM.=Внесите наличные через Банкомат.
+at the skate park=в скейтпарке
+There is a <color\=#F86266>mandatory curfew</color> between 8PM and 5AM. Police will <color\=#F86266>arrest</color> you if you're seen outside.=С 20:00 до 05:00 действует <color=\#F86266>комендантский час</color>. Если полиция увидит тебя на улице — <color\=#F86266>арестуют</color>.
+Maybe=Может быть
+
 ##КОНСОЛЬ##
 
+Instantly removes all trash from the world.=Мгновенно убирает весь мусор в мире.
 Changes the player's cash balance by the specified amount=Изменяет баланс наличных игрока на указанную сумму.
 Gives the player the specified item. Optionally specify a quantity.=Дает игроку указанный предмет.\nПри желании укажите количество.
 give ogkush 5=give ogkush 5
@@ -551,7 +581,6 @@ Arcade=Аркада
 Basketball\nCourt=Баскетбольная\nПлощадка
 Sauerkraut\nSupreme=Sauerkraut\nSupreme
 Dealer Management=Управление Дилерами
-Benji Coleman=Бенджи Коулман
 Cut=Доля
 Inventory=Инвентарь
 r:Assigned Customers \((\d+\/\d+)\)=Назначенные клиенты ($1)
@@ -651,7 +680,6 @@ Warehouse=Склад
 Bridge=Мост
 Brown Apartment\nBlock=Коричневый жилой\nблок
 Construction Site=Строительная Площадка
-Pseudo=Псевдо
 Use trimmers to harvest=Используйте триммеры для сбора урожая
 r:(\d+)% grown=$1% рост
 Discard=<size\=11>Уничтожить\n\n</size>
@@ -887,6 +915,8 @@ One sec...=Секунду...
 
 ##ИМЕНА##
 
+Benji Coleman=Бенджи К.
+Benji=Бенджи
 Shirley Watts=Ширли У.
 Shirley=Ширли
 Salvador Moreno=Сальвадор М.
@@ -959,7 +989,6 @@ Peggy Myers=Пэгги М.
 Peggy=Пэгги
 Charles Rowland=Чарльз Р.
 Charles=Чарльз
-Benji=Бенджи
 Lucy Pennington=Люси П.
 Lucy=Люси
 Dan=Дэн
@@ -1065,12 +1094,15 @@ Leo Rivers=Лео Р.
 Leo=Лео
 Tobias Wentworth=Тобиас В.
 Tobias=Тобиас
-Donald Campnell=Дональд К.
-Donald=Дональд
-Larry Lee=Ларри Л.
-Larry=Ларри
-Jeffrey Jones=Джеффри Д.
-Jeffrey=Джеффри
+
+##Тайники-инициалы##
+
+N.E=Н.И
+E.S=Э.С
+S.W=Ш.У
+W.N=В.Н
+A.H=А.Г
+S.M=С.М
 
 ##ЭФФЕКТЫ##
 
@@ -1471,6 +1503,7 @@ Poor Cocaine=Слабый Кокаин
 Premium Cocaine=Премиальный Кокаин
 (Hold) Snort=(Удерж.) Занюхнуть
 Heavenly=Райский
+Premium=Премиальный
 
 ##ЖУРНАЛ##
 
@@ -1483,7 +1516,7 @@ sr:"^(.+) has requested a delivery of ([0-9]+)x Granddaddy Purple (.+) for \$(\d
 
 No=Не
 [Counter-offer]=[Своя ставка]
-Sure thing=Без базара
+Sure thing=Конечно
 r:"How about (\d+x) (.+) for \$(\d{1,3}(?:,\d{3})*)\?"=Как насчет $1 $2 за $3$?
 Ok whatever. What time?=Окей, какая разница. Время?
 [Schedule Deal]=[Договориться]
@@ -1506,7 +1539,7 @@ sr:"Hey, have you got (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3}
 sr:"Hey dog\, I need (\d+x) (.+)\. I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>\. Deal\?"=Бро, нужно $1 $2. Плачу <color\=#46CB4F>$3$</color>. По рукам?
 sr:"Ayo dawg\, if you got (\d+x) (.+) I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. Deal\?"=Айоу бро, если есть $1 $2 Плачу <color\=#46CB4F>$3$</color> за это. По рукам?
 sr:"Yo homie\, can I get (\d+x) (.+)\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color>"=Йо хоуми, можно $1 $2? Я заплачу <color\=#46CB4F>$3$</color>
-sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it. DEAL?"=Есть $1 $2??? Заплачу <color\=#46CB4F>$3</color>. ПО РУКАМ?
+sr:"U got (\d+x) (.+)\?\?\? I'll pay <color\=#46CB4F>\$(\d{1,3}(?:,\d{3})*)</color> for it\. DEAL\?"=Есть $1 $2??? Заплачу <color\=#46CB4F>$3$</color>. ПО РУКАМ?
 
 Aight homie. What time you wanna meet?=Лан друган. В какое время встретимся?
 
@@ -1573,6 +1606,16 @@ Hmm ok. What time?=Хмм ок. Время?
 Eh... not what I'm after=Эх... не то, что мне нужно
 That's some good shit!! You'll hear from me=Вот это годнота!! Я ещё свяжусь с тобой
 Good enough I guess. You'll hear from me=Достаточно сносно. Я ещё выйду на связь
+Heyo dog=Хэйо бро
+God damn it=Мать твою
+Arghhh!!!=Аргхх!!!
+That's shit!=Эт дерьмо!
+Come on, I really need something=Ну же, мне реально надо что-нить
+No thanks brody=Не спасибо кореш
+Sorry homie, not my taste=Сорян родной, не мой вкус
+Aww man...=Оуу чел...
+Damn it!=Блин!
+
 
 sr:"Good!! I'll see u <b>(.+)</b> between 6:00 AM and 12:00 PM\."=Оки!! Увидимся <b>$1</b> утром.
 sr:"Good!! I'll see u <b>(.+)</b> between 12:00 PM and 6:00 PM\."=Оки!! Увидимся <b>$1</b> в полдень.
@@ -1614,8 +1657,8 @@ sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 12:00 PM and 6:00 PM."=К�
 sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 6:00 PM and 12:00 PM."=Крутяк, братан, встречу тебя <b>$1</b> вечером.
 sr:"Sweet as homie, I'll meet you <b>(.+)</b> between 12:00 AM and 6:00 AM."=Крутяк, братан, встречу тебя <b>$1</b> ночью.
 
-behind Thompson construction and demolition=за стройкой Томпсона
-Behind Thompson construction and demolition=За стройкой Томпсона
+behind Thompson construction and demolition=за "Thompson construction"
+Behind Thompson construction and demolition=За "Thompson construction"
 Behind Sauerkraut Supreme Pizzeria=За Пиццерией Sauerkraut Supreme
 behind Sauerkraut Supreme pizzeria=за Пиццерией Sauerkraut Supreme
 Basketball court=Баскетбольная площадка
@@ -1650,8 +1693,9 @@ Gazebo=Беседка
 Behind bank=За банком
 behind bank=за банком
 behind the bank=за банком
-Alleyway behind Top Tattoo=Переулок за Top Tattoo
-alleyway behind Top Tattoo=переулок за Top Tattoo
+Alleyway behind Top Tattoo=Переулок за "Top Tattoo"
+alleyway behind Top Tattoo=переулок за "Top Tattoo"
+in the alleyway behind top tattoo=в переулке за top tattoo
 Grey docks building=Серые доки билдинг
 Behind fire station=За пожарной станцией
 behind fire station=За пожарной станцией
@@ -1682,6 +1726,7 @@ behind the diner=за закусочной
 Brick warehouse at the docks=Склад из кирпича в доках
 brick warehouse at the docks=склад из кирпича в доках
 outside the brick warehouse at the docks=снаружи кирпичного склада в доках
+Behind the Crimson Canary=За Багровой Канарейкой
 Behind Crimson Canary=За Багровой Канарейкой
 behind the Crimson Canary=за Багровой Канарейкой
 behind the motel office=за офисом мотеля
@@ -1692,6 +1737,7 @@ Graveyard=Кладбище
 on the graveyard=на кладбище
 Next to parking garage=У автостоянки
 next to parking garage=у автостоянки
+in the parking garage next to the casino=на автостоянке около казино
 Wharf near french restaurant=Причал возле французского ресторана
 wharf near french restaurant=причал возле французского ресторана
 Behind the shipping containers at the docks=За контейнерами в доках
@@ -1816,6 +1862,7 @@ Time Remaining=Осталось Времени
 No Active Laundering Operations=Нет Активных Операций по Отмыву
 New Laundering Operation=Новая Операция по Отмыву
 sr:"^(\d{1,2}) hours$"=$1 Ч
+You need at least $10 cash to launder.=Вам нужно хотябы $10 для начала отмыва.
 Outstanding, the property has been transferred to your name.=Отлично! Собственность переоформлена на ваше имя.
 taco ticklers? Payments are made from your online balance.=taco ticklers? Оплата будет через твой счёт.
 car wash? Payments are made from your online balance.=автомойку? Оплата будет через твой счёт.
@@ -1838,7 +1885,7 @@ UNDER ARREST=ПОД АРЕСТОМ
 Police are nearby!=Полиция рядом!
 WANTED=РОЗЫСК
 WANTED DEAD OR ALIVE=ЖИВЫМ ИЛИ МЁРТВЫМ
-INVESTIGATING=ПРОВЕРЯЮТ
+INVESTIGATING=(ПРОВЕРЯЮТ)
 Cuffing...=Арест...
 r:"^\$(\d+\.\d{2}) fine \(\$(\d+\.\d{2}) paid - insufficient cash\)$"=$$${1} штраф ($$${2} уплачено — не было налички)
 r:"^\$(\d+\.\d{2}) fine (paid in cash)=$$${1} штраф (выплачено наличкой)
@@ -1870,7 +1917,7 @@ CAFE & BAKERY=КАФЕ & ПЕКАРНЯ
 4G=4G
 DAN'S  HARDWARE=<size\=4>ХОЗЯЙСТВЕННЫЕ ТОВАРЫ ДЭНА</size>
 HYLAND\nBANK=ХАЙЛЕНД\nБАНК
-r:CURFEW TONIGHT\n(.*)=КОМЕНДАНТСКИЙ ЧАС\n$1
+CURFEW TONIGHT\n9PM - 5AM=КОМЕНДАНТСКИЙ ЧАС\n21:00 - 05:00
 THE BUTTER BOX=КОРОБКА С МАСЛОМ
 Barn=Амбар
 Lightweight Board\n$500=Лёгкая Доска\n$500
@@ -1957,37 +2004,14 @@ What will the suit of the next card be?=Какая масть будет у сл
 Tattoo Shop=Тату-Магазин
 Manor=Поместье
 Motel Room=Номер в Мотеле
-Jorts=Шорты-джинсы
-Skirt=Юбка
-Long Skirt=Длинная Юбка
-Overalls=Комбинезон
-Legend Sunglasses=Солнцезащитные очки "Легенда"
-Rectangle Frame Glasses=Очки с Прямоугольной Оправой
-Small Round Glasses=Маленькие Круглые Очки
-Speed Dealer Shades=Очки для Гонщиков
-Combat Boots=Боевые Ботинки
-Flats=Балетки
-Fingerless Gloves=Перчатки без Пальцев
-Gloves=Перчатки
-Saucepan=Кастрюля
-Porkpie Hat=Шляпа "Поркопай"
-Chef Hat=Шляпа повара
-Cowboy Hat=Ковбойская шляпа
-Apron=Фартук
-Blazer=Пиджак
-Collar Jacket=Куртка с воротником
-Tactical Vest=Тактический Жилет
-Vest=Жилет
-Button-Up Shirt=Рубашка на пуговицах
 Belt=Пояс
 Chest=Грудь
 Left Arm=Левая рука
 Right Arm=Правая рука
 Hair Style=Причёска
-Rectangular Frame Glasses=Прямоугольные Каркасные Очки
-Speed Dealer Sunglasses=Солнцезащитные Очки для Дилера
-Low-Quality Pseudo=Низкокачественный Псевдо
-High-Quality Pseudo=Высококачественный Псевдо
+Low-Quality Pseudo=Псевдо Низк. кач.
+Pseudo=Псевдо
+High-Quality Pseudo=Псевдо Высок. кач.
 Spiky=Колючий
 Afro=Афро
 High Bun=Высокая прическа в виде пучка
@@ -2072,14 +2096,8 @@ View Cart=Посмотреть Корзину
 ALL ()=ВСЕ ()
 EST.  1904=ОСНОВАНО в 1904 году
 N=N
-N.E=N.E
 E=E
-E.S=E.S
 S=S
-S.W=S.W
-W.N=W.N
-A.H=A.H
-S.M=S.M
 H=H
 C=П
 V=V
@@ -2130,7 +2148,7 @@ Place cash in the briefcase on the chemist's bed=Положите деньги �
 Rent a motel room=Снимите номер в мотеле
 Talk to the manager in the motel office=Поговорите с менеджером в офисе мотеля
 Check out your motel room=Осмотрите свой номер в мотеле
-Recruit Benji Coleman as a dealer=Нанимите Бенджи Коулмана в качестве дилера
+Recruit Benji Coleman as a dealer=Наймите Бенджи Коулмана в качестве дилера
 Collect the cash from Benji=Заберите деньги у Бенджи
 Assign at least 3 customers to Benji=Назначьте Бенджи минимум 3 клиента
 • Assign at least 3 customers to Benji=• Назначьте Бенджи минимум 3 клиента
@@ -2311,9 +2329,11 @@ Request Dead Drop=Запросить Закладку
 Dead drops take time to fulfill, depending on the size of the order. The supplier will <color\=#88CBFF>message you</color> when it's ready.=<size\=14>Закладки требуют времени на выполнение — всё зависит от размера заказа. Поставщик <color\=#88CBFF>напишет тебе</color>, когда всё будет готово.</size>
 r:"^Copy\. I'll message you when it's ready in about (\d+) mins\.$"=Принято. Будет готово, напишу - примерно за $1 минут.
 r:"^Copy\. I'll message you when it's ready in about (\d+) hour (\d+) min\.$"=Принято. Будет готово, напишу — примерно через $1 час и $2 мин
+r:"^Copy\. I'll message you when it's ready in about (\d+) hour$"=Принято. Будет готово, напишу — примерно через $1 час
 r:"^Copy\. I'll message you when it's ready in about (\d+) hours (\d+) min\.$"=Принято. Будет готово, напишу — примерно через $1 часов и $2 мин
 r:"^Copy\. I'll message you when it's ready in about (\d+) hours\.$"=Принято. Будет готово, напишу — примерно через $1 ч.
 r:"^Got it\. I'll let you know when it's ready. Should be about (\d+) hour (\d+) min$"=Принял. Черкану когда будет готова. Думаю около $1 час и $2 мин
+r:"^Got it\. I'll let you know when it's ready. Should be about (\d+) hour$"=Принял. Черкану когда будет готова. Думаю около $1 час
 r:"^Got it\. I'll let you know when it's ready. Should be about (\d+) hours (\d+) min$"=Принял. Черкану когда будет готова. Думаю около $1 часов и $2 мин
 r:"^Got it\. I'll let you know when it's ready. Should be about (\d+) mins$"=Принял. Черкану когда будет готова. Думаю около $1 минут
 r:"^Got it\. I'll let you know when it's ready. Should be about (\d+) hours$"=Принял. Черкану когда будет готова. Думаю около $1 ч.
@@ -2324,8 +2344,8 @@ r:"^Working on it\. Should be ready in around (\d+) hours (\d+) min$"=Займу
 r:"^Working on it\. Should be ready in around (\d+) hours$"=Займусь. Будет готово примерно через $1 ч.
 r:"^Wait for the dead drop \((\d{1,3}) mins\)$"=Подождите закладку ($1 минут)
 I guess that's fine. When?=Я думаю норм. Когда?
-Behind Thompson Construction=За Стройкой Томпсона
-behind Thompson Construction=за Стройкой Томпсона
+Behind Thompson Construction=За "Thompson Construction"
+behind Thompson Construction=за "Thompson Construction"
 Alleyway behind the laundromat=Аллея за прачечной
 in the alleyway behind the laundromat=в аллее за прачечной
 Collect Dead Drop=Заберите закладку
@@ -2336,7 +2356,7 @@ sr:"Your drop is ready. Grab it (.+)$"=Твоя закладка готова. �
 sr:"Hey, that drop is ready (.+)$"=Эй, та закладка готова $1
 Behind Casino=За казино
 behind the casino=за казино
-sr:"Hey, that drop is ready in (.+)$"=Хэй, та закладка готова $1
+sr:"Hey, that drop is ready (.+)$"=Хэй, та закладка готова $1
 sr:"I need a dead drop:\n(\d+x) (.+)$"=<size\=30>Мне нужна закладка:\n$1 $2</size>
 sr:"I need a dead drop:\n(\d+x) (.+)\n(\d+x) (.+)$"=<size\=30>Мне нужна закладка:\n$1 $2\n$3 $4</size>
 sr:"I need a dead drop:\n(\d+x) (.+)\n(\d+x) (.+)\n(\d+x) (.+)$"=<size\=30>Мне нужна закладка:\n$1 $2\n$3 $4\n$5 $6</size>
@@ -2424,6 +2444,7 @@ Chemical element that is an essential nutrient in a healthy diet. It also has ot
 Like meth except legal. Used to stimulate cognition.=Как мет, только легальный. Стимулирует умственную активность.
 A big jug of ethically sourced horse semen.=Большая канистра конской спермы из «этичного источника».
 HEY! I'm really in need right now. Please tell me you've got something I can buy..?=ЭЙ! Мне сейчас очень нужно. Скажи, что у тебя есть что-то, что я могу купить..?
+Hey! I'm really in need right now. Please tell me you've got something I can buy..?=Хэй! Мне сейчас очень нужно. Скажи, что у тебя есть что-то, что я могу купить..?
 Get out of here=Убирайся отсюда
 Follow me, I need to grab it first=Следуй за мной, мне нужно сначала забрать
 [Make an offer]=[Сделать предложение]
@@ -2454,7 +2475,8 @@ Agreed. I'll be under the west bridge for the next 6 hours.=Договор. Я �
 Agreed. I'll be next to the mayor's house for the next 6 hours.=По рукам. Буду рядом с домом мэра ближайшие 6 часов.
 Agreed. I'll be in the west construction for the next 6 hours.=Договорились. Буду на строительной площадке ближайшие 6 часов.
 Agreed. I'll be under the north end of the overpass for the next 6 hours.=Идёт. Я буду под северным краем эстакады следующие 6 часов.
-Hello sir. Ready to peruse the supplies?=Здравствуйте. Готовы выбрать себе припасы?
+Agreed. I'll be in the west construction site for the next 6 hours.=Окей. Я буду на западной строительной площадке в течение 6 часов.
+Hello sir. Ready to peruse the supplies?=Здрасьте сэр. Готовы выбрать припасы?
 Insufficient cash. Visit an ATM to withdraw cash.=Недостаточно налички. Посетите банкомат чтобы снять деньги.
 Good doing business with you, sir.=С вами приятно иметь дело, сэр.
 I'm good thanks=Я в порядке спасибо
@@ -2468,7 +2490,7 @@ Recruit and manage your first dealer to handle distribution for you.=Найми 
 r:"^(\+\d+) more$"=$1 ещё
 You've got a decent base of operations and a growing customer base. You'll be pulling in some proper cash now, but you'll need help to manage all your customers.=У тебя неплохая база и растущее число клиентов. Теперь деньги пойдут серьёзные, но тебе понадобится помощь, чтобы справиться со всеми клиентами.
 Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>Benji Coleman</color> his name is, I think. He'll be the first dealer you can work with.=Пора подумать о найме <color\=#4CB0FF>дилера</color>. Есть один парень… хмм… кажется, зовут <color\=#4CB0FF>Бенджи Коулман</color>. Он будет твоим первым дилером, с которым можно работать.
-You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>Ludwig</color>. Focus on selling to them until one of them recommends you.=Ты не сможешь нанять дилера, пока кто-то из его друзей не порекомендует тебя. Бенджи дружит с <color\=#4CB0FF>Пегги, Бет</color> и <color\=#4CB0FF>Людвигом</color>. Сосредоточься на продаже им, пока кто-то из них не даст о тебе рекомендацию.
+You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>Ludwig</color>. Focus on selling to them until one of them recommends you.=Ты не сможешь нанять дилера, пока кто-то из его друзей не порекомендует тебя. Бенджи дружит с <color\=#4CB0FF>Пегги, Бет</color> и <color\=#4CB0FF>Людвиг</color>. Сосредоточься на продаже им, пока кто-то из них не даст о тебе рекомендацию.
 Ok no problem=Ок без проблем
 K=K
 Ok then=Ок тогда
@@ -2526,7 +2548,7 @@ Thanks. Hey, my friend Benji Coleman is a dealer and can help you move your prod
 Cheers. My friend Benji Coleman is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Бенджи Коулман — дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
 Cheers. My friend Brad Crosby is a dealer and might be able to help you move your stuff. You should go speak to them.=Спасибо. Мой друг Брэд Кросби — дилер, он может помочь тебе с продажами. Тебе стоит с ним поговорить.
 Thanks. Hey, my friend Brad Crosby is a dealer and can help you move your product. You should go speak to them.=Спасибо. Мой друг Брэд Кросби — дилер, может помочь с толканием твоего товара. Тебе стоит поговорить с ним.
-You can now hire <color\=#88CBFF>Benji Coleman</color> as a dealer.=Теперь вы можете нанять <color\=#88CBFF>Бенджи Коулмана</color> дилером.
+sr:"You can now hire <color\=#88CBFF>(.+)</color> as a dealer.$"=Теперь вы можете нанять <color\=#88CBFF>$1</color> дилером.
 r:"^Alright, I'll be a dealer for you but there is a <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> signing fee, and I'll take a <color\=#54E717>(\d+%)</color> cut of each sale\. We got a deal\?$"=Ладно, я буду твоим дилером, но с тебя <color\=#54E717>$1$</color> комиссия за старт, и <color\=#54E717>$2</color> с каждой продажи. По рукам?
 r:"^Deal \(<color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\)$"=По рукам (<color\=#54E717>$1$</color>)
 Thank you. Bring me some product and assign some customers to me, and I'll get to work.=Спасибо. Принесите мне товар, назначьте некоторых клиентов, и я приступаю к работе.
@@ -2609,7 +2631,7 @@ Use Packaging Station Mk II=Использовать Стол Упаковки �
 Insert product into packaging=Сбросьте продукт в упаковку
 Rotate Conveyor=Вращать Конвейер
 Drop Product=Сбросить Продукт
-Oh yeah, boss man told me about you. You can come in, but you'll have to wait until 6PM.=А, да, босс про тебя говорил. Можешь войти, но тебе придётся подождать до 6PM.
+Oh yeah, boss man told me about you. You can come in, but you'll have to wait until 6PM.=А, да, босс про тебя говорил. Можешь войти, но тебе придётся подождать до 18:00.
 A potent classic with intense sedating and euphoric effects.=Мощная классика с сильным успокаивающим и эйфоричным эффектом. 
 • Talk to the merchant=• Поговорите с продавцом
 • Talk to the fixer=• Поговорите с фиксером
@@ -2692,6 +2714,7 @@ r:"Insert <color\=#FFC73D>(\d+x)</color> coca leaves and <color\=#FFC73D>(\d+x)<
 Use Cauldron=Использовать Котёл
 Use Brick Press=Использовать Кирпичный Пресс
 You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=Всегда пожалуйста, друг. Если тебе нужно спецоборудование или припасы — у Оскара всё есть.
+You’re welcome friend. If you need special equipment or supplies, Oscar has what you need.=Всегда пожалуйста, друг. Если тебе нужно спецоборудование или припасы — у Оскара всё есть.
 You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=Вы достигли дневного лимита пополнений через банкомат. Чтобы перевести больше налички в онлайн-баланс, начните отмывку через бизнес.
 INVENTORY FULL=ИНВЕНТАРЬ ПОЛОН
 Classic double-kick popsicle skateboard. Use it to get around faster than on-foot.=Классический скейтборд с двойным загибом. Позволяет передвигаться быстрее, чем пешком.
@@ -2757,6 +2780,7 @@ Cheapass 6-shot revolver probably made by communists in the 70s. Needs to be man
 Big sharp machete.		=Большой острый мачете.		
 Contains 6 rounds for the Revolver.=Содержит 6 патронов для револьвера.
 Oscar says thanks=Оскар говорит спасибо
+Hehe Oscar was just joking. If you need special equipment or supplies, Oscar has what you need.=Хе-хе, Оскар просто шутил. Если нужна специальное оборудование или припасы — Оскар всё устроит.
 STOP=СТОП
 r:"^([0-9]+) mins left$"=$1 минут осталось
 7-round magazine for the M1911 handgun.7-зарядный магазин для пистолета M1911.
@@ -2844,14 +2868,17 @@ Stay here while I search your vehicle=Стойте здесь, пока я об�
 Load Last Save=<size\=15>Последнее Сохранение</size>
 Thanks for choosing Handy Hanks!=Спасибо что выбрали Хэнди Хэнка!
 Thank you, come again!=Спасибо, приходите снова!
-Good. I'm Manny. I'm the local fixer. You looking to hire workers, you talk to me.=Хорошо. Я Мэнни. Местный фиксер. Хочешь нанять работников — говори со мной.
+Delivery already in progress=Доставка уже в процессе
+View table=Осмотреть стол
+Table=Стол
 
 ##Склад##
 
+What?=Чего?
 Oh yeah, boss man told me about you. Come in.=О да, босс сказал мне про тебя. Проходи.
 Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Ближнее оружие — тупое и острое, и, конечно, стволы. Патроны тоже. Поставки обновляются время от времени.
 Are these weapons legal?=Эти оружия легальны?
-Yeahhhh, more or less. Most of them are probably not completely non-illegal… what're you asking' for anywho?=Ну дааа... вроде того. Большинство, наверное, не совсем законные... а ты вообще что ищешь?
+Yeahhhh, more or less. Most of them are probably not completely non-illegal... what’re you askin' for anywho?=Ну дааа... вроде того. Большинство, наверное, не совсем законные... а ты вообще что ищешь?
 sr:"That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=Это будет <color\=#54E717>$1</color> за $2. По рукам, партнёр?
 I'm looking for some weaponry.=Я ищу вооружение.
 Evenin' partner, what can I do you for?=Вечер добрый напарник. Чем могу помочь?
@@ -2882,6 +2909,7 @@ Hehe nothing... just Oscar being friendly. If you need special equipment or supp
 What sort of stuff do you sell?=А что ты вообще продаёшь?
 Oscar sells special equipment and supplies.=Оскар продаёт спецоборудование и припасы.
 Yeah okay thanks...=Ага, спасибо...
+You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=Пожалуйста, друг. Если нужно спецоборудование или припасы, у Оскара всё есть.
 Evenin' there, what can I do for ya?=Вечер добрый, чем могу быть полезен?
 A common ingredient used in a chemistry station.=Распространённый ингредиент, используемый на химической станции.
 Common chemical ingredient in powder form. Used in matches and meth.=Обычный химический ингредиент в порошке. Используется в спичках и мете.
@@ -2914,6 +2942,9 @@ sr:"^That'll be a <color\=#54E717>\$(\d{1,3}(?:,\d{3})?)</color> signing free, a
 Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=Отлично. Я отправляю твоего нового сотрудника на объект. Также дарю тебе планшет для управления персоналом и оборудованием.
 Cheers. I'll send your new employee over to your property now.=Отлично. Я отправляю твоего нового сотрудника на объект.
 r:EMPLOYEE LIMIT REACHED (.*)\/(.*)=ДОСТИГНУТ ЛИМИТ СОТРУДНИКОВ $1/$2
+Good. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=Хорошо. Я Мэнни. Местный фиксер. Хочешь нанять работников — говори со мной.
+Alright then, fuck off.=Ладно тогда, отъебись.
+
 
 ##Сотрудники##
 
@@ -2982,11 +3013,11 @@ r:Manage (\d+x) Pot=Управлять $1 Горшок
 Assign bed=Назначьте кровать
 Open briefcase=Открыть портфель
 Briefcase=Портфель
-r:"^Assigned to (.+)$"=Назначено $1
-r:"^Already assigned to (.+)$"=Уже назначено $1
-r:"^(.*)'s Briefcase$"='$1' Портфель
-r:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 будет забирать свою ежедневную зарплату <color\=#54E717>$2$</color> из этого портфеля.
-r:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 будет забирать свою ежедневную зарплату <color\=#54E717>$2$</color> из этого портфеля.
+sr:"^Assigned to (.+)$"=Назначено $1
+sr:"^Already assigned to (.+)$"=Уже назначено $1
+sr:"^(.*)'s Briefcase$"='$1' Портфель
+sr:"^(.+) will draw his daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 будет забирать свою ежедневную зарплату <color\=#54E717>$2$</color> из этого портфеля.
+sr:"^(.+) will draw her daily wage of <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> from this briefcase.$"=$1 будет забирать свою ежедневную зарплату <color\=#54E717>$2$</color> из этого портфеля.
 Any=Любое
 ^Harvested product will be automatically moved to the destination by the assigned botanist=^Ботаник сам перенесёт урожай в выбранное место
 Additive 3=Стимулятор 3
@@ -3046,6 +3077,8 @@ There's nothing for me to do right now.=Сейчас для меня нет ра
 I need one of my assigned stations to have enough product and packaging to get to work.=Мне нужны продукты и упаковки на назначенном столе чтобы работать.
 I haven't been assigned any stations=Мне не назначена ни одна станция
 You can use your management clipboards to assign stations to me.=Можете использовать планшет управления для назначения станций.
+I haven't been assigned to any stations or routes.=Мне не назначены ни станции, ни маршруты.
+You can use your managment clipboards to assign stations or routes to me.=Можете использовать планшет, чтобы назначить мне станции или маршруты.
 
 ##ЦВЕТА##
 
@@ -3105,6 +3138,9 @@ DarkGrey=Тёмно-серый
 LightGrey=Светло-серый
 
 ##ОДЕЖДА##
+
+Great choice!=Хороший выбор!
+Thanks for your purchase!=Спасибо вам за покупку!
 
 Bucket Hat=Панама
 V-Neck Shirt=V-образная футболка
